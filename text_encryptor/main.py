@@ -1,6 +1,3 @@
-from audioop import mul
-
-
 def alpha_to_num(text):
     code = ""
 
